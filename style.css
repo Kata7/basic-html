@@ -1,0 +1,14 @@
+* {
+    font-family: courier;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #101010;
+    color: white;
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
